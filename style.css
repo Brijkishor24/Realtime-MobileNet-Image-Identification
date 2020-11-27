@@ -1,0 +1,45 @@
+  .heading
+  {
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+    font-size: 25px;
+  }
+  .heading_div
+  {
+    background: white ; 
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px grey;
+    float:none;
+    font-size:20px;
+  }
+  .heading_div2
+  {
+    font-size: 18px ;
+  }
+  .result_para_tag
+  {
+    box-shadow:5px 5px 5px grey;
+    font-size: 25px;
+  }
+ canvas{
+   border:10px ridge goldenrod;
+   margin-top:150px;
+   box-shadow:5px 10px 15px saddlebrown;
+   border-bottom-left-radius:25px;
+   border-top-right-radius:25px;
+ }
+ .copy_right_footer{
+   color: rgb(216, 233, 155);
+   background-color: slategrey;
+   position: fixed;
+   bottom:0;
+   width: 100%;
+   text-align: center;
+   font-size: 20px;
+ }
+ .result_para_tag span{
+   white-space: pre-line;
+   font-size:25px !important;
+ }
